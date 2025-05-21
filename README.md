@@ -14,9 +14,9 @@ To write a python program to find the rank of a matrix
 
 #Program to find the rank of a matrix.
 
-#Developed by: PRIYA DHARSHNI S
+#Developed by: BHARANI KUMAR J
 
-#RegisterNumber: 212224100045
+#RegisterNumber: 212224240024
 
 import numpy as np
 
